@@ -1,0 +1,20 @@
+{
+    "pins": {
+        "left_joy_x": "gpio26",
+        "left_joy_y": "gpio27",
+        "right_joy_x": "gpio28",
+        "right_joy_y": "gpio29",
+        "button_a": "gpio0",
+        "button_b": "gpio1",
+        "button_x": "gpio2",
+        "button_y": "gpio3",
+        "button_select": "gpio4",
+        "button_start": "gpio5",
+        "left_joy_button": "gpio6",
+        "right_joy_button": "gpio7",
+        "button_lb": "gpio8",
+        "button_rb": "gpio9",
+        "button_lt": "gpio10",
+        "button_rt": "gpio11"
+    }
+}
