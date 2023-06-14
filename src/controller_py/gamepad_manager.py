@@ -3,7 +3,7 @@
 import analogio
 import digitalio
 import usb_hid
-from gamepad import Gamepad
+from controller_py.gamepad import Gamepad
 
 
 class GamepadController:
